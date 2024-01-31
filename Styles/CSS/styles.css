@@ -32,10 +32,10 @@ a:link
 .footer-links
 {
 opacity: 0.7;
-background: #edab92;
+background: #556b2f;
 float: left;
 width: 310px;
-border: 4px solid red;
+border: 2px solid grey;
 padding: 6px;
 padding-right: 15px;
 }
