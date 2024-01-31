@@ -23,12 +23,6 @@ li
   color: tomato;
 }
 
-a:link
-{
-  font-size: 2rem;
-  text-align: center;
-}
-
 .footer-links
 {
 opacity: 0.7;
@@ -38,6 +32,7 @@ width: 310px;
 border: 2px solid grey;
 padding: 6px;
 padding-right: 15px;
+text-align: center;
 }
 
 .textinlogo
@@ -53,4 +48,5 @@ hr
     background: #333; /* фон / цвет линии */
     border: 0; /* рамка вокруг разделительной линии (уберем ее) */
     margin: 5px 0 5px 0; /* отступ над и под линией 5 пикселей */
+    text-align: center;
 }
