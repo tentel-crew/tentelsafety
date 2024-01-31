@@ -28,11 +28,12 @@ li
 opacity: 0.7;
 background: #556b2f;
 float: left;
-width: 310px;
+width: 99%;
 border: 0;
 padding: 6px;
 padding-right: 15px;
 text-align: center;
+font-size: 19px;
 }
 
 .textinlogo
