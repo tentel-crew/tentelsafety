@@ -18,6 +18,11 @@ body
   background-color: black;
 }
 
+.content
+{
+  font-size: 25px;
+}
+
 li
 {
   color: tomato;
