@@ -23,6 +23,12 @@ body
   font-size: 25px;
 }
 
+.titlecontent
+{
+  color: green;
+  font-size: 32px;
+}
+
 li
 {
   color: tomato;
