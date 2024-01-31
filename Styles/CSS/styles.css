@@ -22,3 +22,14 @@ li
 {
   color: tomato;
 }
+
+.footer-links
+{
+opacity: 0.7;
+background: #edab92;
+float: left;
+width: 310px;
+border: 4px solid red;
+padding: 6px;
+padding-right: 15px;
+}
