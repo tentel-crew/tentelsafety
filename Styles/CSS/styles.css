@@ -13,7 +13,7 @@ h3,h4,h5,h6
   color: green;
 }
 
-p
+textp
 {
   color: limegreen;
 }
@@ -23,7 +23,7 @@ body
   background-color: black;
 }
 
-footer-links
+li
 {
-  color: 220, 211, 106;
+  color: tomato;
 }
