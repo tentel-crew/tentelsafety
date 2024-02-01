@@ -15,7 +15,7 @@ h3,h4,h5,h6
 
 body
 {
-  background-image: url(body-image.jpeg);
+  background-image: url("body-image.jpeg");
   background-size: 100%;
 }
 
