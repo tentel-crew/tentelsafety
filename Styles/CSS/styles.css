@@ -101,7 +101,7 @@ ul.links {
   height:34px;
 }
 
-.links a:hover, .downloads a:focus {
+.links a:hover, .links a:focus {
   color:#675C5C;
   font-weight:bold;
 }
