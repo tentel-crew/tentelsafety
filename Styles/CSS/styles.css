@@ -72,6 +72,7 @@ ul.links {
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
+  text-align: center;
 }
 
 .links li {
@@ -79,6 +80,7 @@ ul.links {
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
+  text-align: center;
 }
 
 .links li:first-child a {
