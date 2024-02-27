@@ -25,6 +25,11 @@ body
   font-size: 32px;
 }
 
+.logo 
+{
+  width: 150px; 
+}
+
 .textinlogo
 {
   text-align: center;
