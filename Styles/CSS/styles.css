@@ -25,9 +25,10 @@ body
   font-size: 32px;
 }
 
-p.logo 
+.logotype
 {
   width: 130px; 
+  height: 130px;
   text-align: center;
 }
 
